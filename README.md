@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahadi Lugo ==================================================================================================================================  Project Manager & Data Analyst ------------------------------  * 🌍  I'm based in Denver, Colorado * 🚀  I'm currently working on [an online platform that will help preserve and promote Mijikenda indegenous knowledge for the future generations and aid the repatriation of artifacts the community has lost.](http://https://mijikendaheritagetrust.org) * 🧠  I'm learning Business Intelligence Data Analyst - Certification * 🤝  I'm open to collaborating on projects related to productivity, and learning software
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahadi Lugo 
+Project Manager & Data Analyst 
+* 🌍  I'm based in Denver, Colorado * 🚀  I'm currently working on [an online platform that will help preserve and promote Mijikenda indegenous knowledge for the future generations and aid the repatriation of artifacts the community has lost.](http://https://mijikendaheritagetrust.org) * 🧠  I'm learning Business Intelligence Data Analyst - Certification * 🤝  I'm open to collaborating on projects related to productivity, and learning software
 
 ### Skills  
 
