@@ -1,11 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahadi Lugo 
-Project Manager & Data Analyst 
-* 🌍  I'm based in Denver, Colorado
-* 🚀  I'm currently working on [an online platform that will help preserve and promote indegenous knowledge.](http://https://mijikendaheritagetrust.org)
-* 🧠  I'm learning Business Intelligence Data Analyst - Certification
-* 🤝  I'm open to collaborating on projects related to productivity, and learning software
+![](https://media.licdn.com/dms/image/D5616AQFDwGlfPLvRCg/profile-displaybackgroundimage-shrink_350_1400/0/1701231842682?e=1706745600&v=beta&t=5nzNIzM0aMH8SCyuVli78L--oCt84yTFz3YMGs0aOTk)
 
-### Skills  
+A project manager and Scrum Master. I am currently working on my Business Intelligence Data Analytics certification.
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/ahadilugo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahadilugo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+Skills: Project Management | Scrum | SQL | Python | AWS
+
+- 🔭 I’m currently working on digitizing the indigenous knowledge from my tribe and community https://mijikendaheritagetrust.org 
+- 🌱 I’m currently learning Business Intelligence Data Analytics https://www.codecademy.com/learn 
+- 👯 I’m looking to collaborate on projects that focus on productivity and learning software 
+- 🤔 I’m looking for help with building data analytics projects 
+- 📫 How to reach me: https://www.linkedin.com/in/ahadilugo/ 
+- ⚡ Fun fact: I'm a village girl at heart, born and raised in Kenya 
+
+
+
+
